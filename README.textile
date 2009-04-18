@@ -1,0 +1,3 @@
+h1. Sarva Jana Hitam
+
+This repository contains the data for www.sarvajanahitam.org.
